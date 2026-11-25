@@ -1,4 +1,4 @@
-# ⚡ AI-Enabled IoT Smart Energy Meter
+# ⚡IoT Smart Energy Meter
 
 > ### An ESP32-powered smart energy meter with live LCD and Blynk monitoring—built as a foundation for predictive energy analytics.
 
